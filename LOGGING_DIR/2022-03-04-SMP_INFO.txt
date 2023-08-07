@@ -1,0 +1,145 @@
+2022-03-04 08:40:02,266 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 08:41:24,600 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 08:42:37,409 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 08:53:51,900 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 08:54:52,798 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 08:55:54,444 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 08:56:50,894 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 08:58:43,500 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 09:00:22,641 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 09:01:44,760 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 09:37:27,124 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 09:38:40,789 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 09:41:07,253 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 09:41:26,312 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 09:43:10,971 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 09:44:16,970 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 09:44:35,863 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 10:50:12,913 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 10:53:54,423 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 10:54:54,958 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 11:28:34,657 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 11:31:47,348 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 11:36:31,989 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 12:04:17,946 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 12:18:30,633 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 12:18:47,434 src.checks.test_speed_connection_interface INFO Проверка скорости 2400
+2022-03-04 12:18:47,580 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 2400 устанавливается
+2022-03-04 12:18:53,063 src.checks.test_speed_connection_interface INFO Проверка скорости 4800
+2022-03-04 12:18:53,147 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 4800 устанавливается
+2022-03-04 12:18:58,630 src.checks.test_speed_connection_interface INFO Проверка скорости 9600
+2022-03-04 12:18:58,684 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 9600 устанавливается
+2022-03-04 12:19:04,165 src.checks.test_speed_connection_interface INFO Проверка скорости 14400
+2022-03-04 12:19:19,670 src.checks.test_speed_connection_interface INFO Проверка скорости 19200
+2022-03-04 12:19:19,703 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 19200 устанавливается
+2022-03-04 12:19:25,185 src.checks.test_speed_connection_interface INFO Проверка скорости 38400
+2022-03-04 12:19:25,209 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 38400 устанавливается
+2022-03-04 12:19:30,692 src.checks.test_speed_connection_interface INFO Проверка скорости 57600
+2022-03-04 12:19:30,717 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 57600 устанавливается
+2022-03-04 12:19:36,198 src.checks.test_speed_connection_interface INFO Проверка скорости 115200
+2022-03-04 12:19:36,227 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 115200 устанавливается
+2022-03-04 12:20:11,933 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 12:20:28,745 src.checks.test_speed_connection_interface INFO Проверка скорости 2400
+2022-03-04 12:20:28,890 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 2400 устанавливается
+2022-03-04 12:20:34,371 src.checks.test_speed_connection_interface INFO Проверка скорости 4800
+2022-03-04 12:20:34,456 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 4800 устанавливается
+2022-03-04 12:20:39,939 src.checks.test_speed_connection_interface INFO Проверка скорости 9600
+2022-03-04 12:20:39,995 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 9600 устанавливается
+2022-03-04 12:20:45,473 src.checks.test_speed_connection_interface INFO Проверка скорости 14400
+2022-03-04 12:21:00,964 src.checks.test_speed_connection_interface INFO Проверка скорости 19200
+2022-03-04 12:21:00,998 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 19200 устанавливается
+2022-03-04 12:21:06,480 src.checks.test_speed_connection_interface INFO Проверка скорости 38400
+2022-03-04 12:21:06,502 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 38400 устанавливается
+2022-03-04 12:21:11,985 src.checks.test_speed_connection_interface INFO Проверка скорости 57600
+2022-03-04 12:21:12,010 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 57600 устанавливается
+2022-03-04 12:21:17,492 src.checks.test_speed_connection_interface INFO Проверка скорости 115200
+2022-03-04 12:21:17,506 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 115200 устанавливается
+2022-03-04 12:22:57,794 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 12:23:14,597 src.checks.test_speed_connection_interface INFO Проверка скорости 2400
+2022-03-04 12:23:14,742 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 2400 устанавливается
+2022-03-04 12:23:20,223 src.checks.test_speed_connection_interface INFO Проверка скорости 4800
+2022-03-04 12:23:20,297 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 4800 устанавливается
+git2022-03-04 12:23:26,022 src.checks.test_speed_connection_interface INFO Проверка скорости 9600
+2022-03-04 12:23:26,075 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 9600 устанавливается
+2022-03-04 12:23:31,556 src.checks.test_speed_connection_interface INFO Проверка скорости 14400
+2022-03-04 12:23:47,052 src.checks.test_speed_connection_interface INFO Проверка скорости 19200
+2022-03-04 12:23:47,074 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 19200 устанавливается
+2022-03-04 12:23:52,555 src.checks.test_speed_connection_interface INFO Проверка скорости 38400
+2022-03-04 12:23:52,579 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 38400 устанавливается
+2022-03-04 12:23:58,061 src.checks.test_speed_connection_interface INFO Проверка скорости 57600
+2022-03-04 12:23:58,082 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 57600 устанавливается
+2022-03-04 12:24:03,563 src.checks.test_speed_connection_interface INFO Проверка скорости 115200
+2022-03-04 12:24:03,586 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 115200 устанавливается
+2022-03-04 12:26:56,662 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 12:27:13,456 src.checks.test_speed_connection_interface INFO Проверка скорости 2400
+2022-03-04 12:27:13,602 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 2400 устанавливается
+2022-03-04 12:27:19,086 src.checks.test_speed_connection_interface INFO Проверка скорости 4800
+2022-03-04 12:27:19,171 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 4800 устанавливается
+2022-03-04 12:27:24,652 src.checks.test_speed_connection_interface INFO Проверка скорости 9600
+2022-03-04 12:27:24,704 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 9600 устанавливается
+2022-03-04 12:27:30,184 src.checks.test_speed_connection_interface INFO Проверка скорости 14400
+2022-03-04 12:30:16,432 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 12:30:33,247 src.checks.test_speed_connection_interface INFO Проверка скорости 2400
+2022-03-04 12:30:33,393 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 2400 устанавливается
+2022-03-04 12:30:38,875 src.checks.test_speed_connection_interface INFO Проверка скорости 4800
+2022-03-04 12:30:38,947 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 4800 устанавливается
+2022-03-04 12:30:44,427 src.checks.test_speed_connection_interface INFO Проверка скорости 9600
+2022-03-04 12:30:44,483 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 9600 устанавливается
+2022-03-04 12:30:49,965 src.checks.test_speed_connection_interface INFO Проверка скорости 14400
+2022-03-04 12:30:59,980 src.checks.test_speed_connection_interface INFO Связь не устанавливается 14400
+2022-03-04 12:31:05,464 src.checks.test_speed_connection_interface INFO Проверка скорости 19200
+2022-03-04 12:31:05,509 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 19200 устанавливается
+2022-03-04 12:31:10,991 src.checks.test_speed_connection_interface INFO Проверка скорости 38400
+2022-03-04 12:31:11,023 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 38400 устанавливается
+2022-03-04 12:31:16,503 src.checks.test_speed_connection_interface INFO Проверка скорости 57600
+2022-03-04 12:31:16,527 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 57600 устанавливается
+2022-03-04 12:31:22,010 src.checks.test_speed_connection_interface INFO Проверка скорости 115200
+2022-03-04 12:31:22,024 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 115200 устанавливается
+2022-03-04 12:33:02,078 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 12:33:18,870 src.checks.test_speed_connection_interface INFO Проверка скорости 2400
+2022-03-04 12:33:19,026 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 2400 устанавливается
+2022-03-04 12:33:24,509 src.checks.test_speed_connection_interface INFO Проверка скорости 4800
+2022-03-04 12:33:24,583 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 4800 устанавливается
+2022-03-04 12:33:30,064 src.checks.test_speed_connection_interface INFO Проверка скорости 9600
+2022-03-04 12:33:30,106 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 9600 устанавливается
+2022-03-04 12:33:35,585 src.checks.test_speed_connection_interface INFO Проверка скорости 14400
+2022-03-04 12:33:51,081 src.checks.test_speed_connection_interface INFO Проверка скорости 19200
+2022-03-04 12:33:51,116 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 19200 устанавливается
+2022-03-04 12:33:56,598 src.checks.test_speed_connection_interface INFO Проверка скорости 38400
+2022-03-04 12:33:56,612 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 38400 устанавливается
+2022-03-04 12:34:02,094 src.checks.test_speed_connection_interface INFO Проверка скорости 57600
+2022-03-04 12:34:02,116 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 57600 устанавливается
+2022-03-04 12:34:07,597 src.checks.test_speed_connection_interface INFO Проверка скорости 115200
+2022-03-04 12:34:07,621 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 115200 устанавливается
+2022-03-04 13:16:52,923 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 13:17:09,963 src.checks.test_speed_connection_interface INFO Проверка скорости 2400
+2022-03-04 13:17:10,115 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 2400 устанавливается
+2022-03-04 13:17:15,597 src.checks.test_speed_connection_interface INFO Проверка скорости 4800
+2022-03-04 13:17:15,680 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 4800 устанавливается
+2022-03-04 13:17:21,164 src.checks.test_speed_connection_interface INFO Проверка скорости 9600
+2022-03-04 13:17:21,219 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 9600 устанавливается
+2022-03-04 13:17:26,945 src.checks.test_speed_connection_interface INFO Проверка скорости 14400
+2022-03-04 13:17:42,438 src.checks.test_speed_connection_interface INFO Проверка скорости 19200
+2022-03-04 13:17:42,471 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 19200 устанавливается
+2022-03-04 13:17:47,951 src.checks.test_speed_connection_interface INFO Проверка скорости 38400
+2022-03-04 13:17:47,985 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 38400 устанавливается
+2022-03-04 13:17:53,468 src.checks.test_speed_connection_interface INFO Проверка скорости 57600
+2022-03-04 13:17:53,493 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 57600 устанавливается
+2022-03-04 13:17:58,976 src.checks.test_speed_connection_interface INFO Проверка скорости 115200
+2022-03-04 13:17:59,000 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 115200 устанавливается
+2022-03-04 13:36:09,689 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-04 13:36:26,492 src.checks.test_speed_connection_interface INFO Проверка скорости 2400
+2022-03-04 13:36:26,628 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 2400 устанавливается
+2022-03-04 13:36:32,109 src.checks.test_speed_connection_interface INFO Проверка скорости 4800
+2022-03-04 13:36:32,182 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 4800 устанавливается
+2022-03-04 13:36:37,666 src.checks.test_speed_connection_interface INFO Проверка скорости 9600
+2022-03-04 13:36:37,710 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 9600 устанавливается
+2022-03-04 13:36:43,191 src.checks.test_speed_connection_interface INFO Проверка скорости 14400
+2022-03-04 13:36:58,685 src.checks.test_speed_connection_interface INFO Проверка скорости 19200
+2022-03-04 13:36:58,730 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 19200 устанавливается
+2022-03-04 13:37:04,212 src.checks.test_speed_connection_interface INFO Проверка скорости 38400
+2022-03-04 13:37:04,226 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 38400 устанавливается
+2022-03-04 13:37:09,709 src.checks.test_speed_connection_interface INFO Проверка скорости 57600
+2022-03-04 13:37:09,731 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 57600 устанавливается
+2022-03-04 13:37:15,211 src.checks.test_speed_connection_interface INFO Проверка скорости 115200
+2022-03-04 13:37:15,225 src.checks.test_speed_connection_interface INFO Связь со счетчиком на скорости 115200 устанавливается

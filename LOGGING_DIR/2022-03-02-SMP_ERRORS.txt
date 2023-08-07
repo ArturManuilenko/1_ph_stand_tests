@@ -1,0 +1,31 @@
+2022-03-02 11:48:42,914 src.checks.test_change_winter_summer_date_time ERROR invalid literal for int() with base 10: '30.088'
+2022-03-02 11:49:33,768 src.checks.test_change_winter_summer_date_time ERROR invalid literal for int() with base 10: '30.089'
+2022-03-02 11:50:50,440 src.checks.test_change_winter_summer_date_time ERROR invalid literal for int() with base 10: '30.0906'
+2022-03-02 11:52:40,860 src.checks.test_change_winter_summer_date_time ERROR invalid literal for int() with base 10: '30.0928'
+2022-03-02 11:54:19,638 src.checks.test_change_winter_summer_date_time ERROR invalid literal for int() with base 10: '30.0948'
+2022-03-02 11:56:19,042 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 12:11:24,979 src.checks.test_change_winter_summer_date_time ERROR Переход в выключенном состоянии не осуществляется
+2022-03-02 13:06:46,922 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 13:25:31,539 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 13:33:42,939 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 13:59:42,064 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 14:09:42,094 src.checks.test_change_winter_summer_date_time ERROR write failed: [Errno 5] Input/output error
+2022-03-02 14:18:26,506 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 14:20:52,732 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 14:23:46,757 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 14:28:37,090 src.checks.test_change_winter_summer_auto ERROR Переход на зимнее не осуществляется
+2022-03-02 14:38:37,186 src.checks.test_change_winter_summer_auto ERROR write failed: [Errno 5] Input/output error
+2022-03-02 15:13:10,210 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 15:15:27,606 src.checks.test_change_winter_summer_auto ERROR Переход на зимнее не осуществляется
+2022-03-02 15:16:53,992 src.checks.test_change_winter_summer_auto ERROR Get Value Error, val=--t==20000 -os 3=[2] ()
+2022-03-02 15:17:26,324 src.checks.test_change_winter_summer_auto ERROR Get Value Error, val=--t==2000 -os 3=[2] ()
+2022-03-02 15:20:30,307 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 15:22:18,774 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 15:24:10,561 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 15:30:31,697 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 16:02:48,236 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 16:09:11,754 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 16:13:18,034 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 16:15:50,737 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 16:19:04,406 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-02 16:22:16,791 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется

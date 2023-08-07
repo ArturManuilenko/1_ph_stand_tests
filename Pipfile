@@ -1,0 +1,35 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+name = "nero_gitlab"
+verify_ssl = false
+url = "https://__token__:BVsCinq_vAPSPiLeMmUK@gitlab.neroelectronics.by/api/v4/projects/996/packages/pypi/simple"
+#  tocken - read only
+
+[[source]]
+url = "https://gitlab.neroelectronics.by/unic-lab/projects/atest/modules/smp_driver_all_oc.git"
+verify_ssl = true
+name = "gitlabneroelectronics"
+
+[packages]
+pyserial = '3.4'
+python-dateutil = "2.8.2"
+ul_py_tool = {version = "==1.2.2", index = "nero_gitlab"}
+one-ph-stand-driver = {version = "==1.0.5", index = "nero_gitlab"}
+SMPCrossPlatform = {version = "==1.0.40", index = "nero_gitlab"}
+one-ph-owen-stand = {version = "==1.0.2", index = "nero_gitlab"}
+
+[dev-packages]
+wheel = '0.37.0'
+
+[requires]
+python_version = "3.8"
+
+[scripts]
+lint = "ulpytool lint --py-files=src/**/*.py"
+test = "ulpytool test"
+
+run = "python src/runtest.py test_configure --wakeup 5 --timeout 5000 --test_repeats 1 --device CL1 --stand_comport 1 --counter_comport 0 --method direct"

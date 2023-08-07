@@ -1,0 +1,1363 @@
+2022-03-03 08:49:04,324 __main__ DEBUG Autotests beginning
+2022-03-03 08:49:04,427 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 08:49:04,523 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 08:49:04,619 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 08:49:04,715 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 08:49:04,810 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 08:49:04,906 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 08:49:05,001 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 08:49:05,097 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 08:49:05,192 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 08:49:05,288 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 08:49:05,384 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 08:49:05,424 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 08:49:10,485 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 08:49:20,506 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 08:50:26,647 __main__ DEBUG Autotests beginning
+2022-03-03 08:50:26,745 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 08:50:26,841 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 08:50:26,936 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 08:50:27,032 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 08:50:27,128 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 08:50:27,224 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 08:50:27,320 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 08:50:27,415 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 08:50:27,511 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 08:50:27,606 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 08:50:27,702 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 08:50:27,743 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 08:50:32,798 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 08:50:32,902 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 08:50:32,903 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 08:50:32,946 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 08:50:32,946 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 08:50:32,946 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 08:50:32,946 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 08:50:32,947 SMPCrossPlatform.smproto DEBUG [01 00 01 C6 CA 12]
+2022-03-03 08:50:32,947 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 C6 CA 12] 
+data single
+  1(0)=30.4454
+
+
+2022-03-03 08:50:32,947 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 08:50:37,961 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2
+2022-03-03 08:50:38,430 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 08:50:38,430 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2 is OK
+2022-03-03 08:50:38,439 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 08:50:38,542 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 08:50:38,543 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580
+2022-03-03 08:50:38,667 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 08:50:38,667 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580 is OK
+2022-03-03 08:50:38,667 SMPCrossPlatform.smptool2 DEBUG Time set is OK, time=28.10.2018 02:59:40
+2022-03-03 08:50:38,669 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2
+2022-03-03 08:50:39,371 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 08:50:39,371 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2 is OK
+2022-03-03 08:50:39,373 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 08:50:39,425 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:21:42,219 __main__ DEBUG Autotests beginning
+2022-03-03 09:21:42,318 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 09:21:42,413 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 09:21:42,509 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 09:21:42,605 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 09:21:42,700 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 09:21:42,796 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 09:21:42,891 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 09:21:42,987 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 09:21:43,083 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 09:21:43,179 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 09:21:43,274 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 09:21:43,315 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 09:21:48,370 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 09:21:48,474 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:21:48,476 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 09:21:48,518 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:21:48,518 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 09:21:48,519 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 09:21:48,519 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 09:21:48,519 SMPCrossPlatform.smproto DEBUG [01 00 01 EF EB 0B]
+2022-03-03 09:21:48,519 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 EF EB 0B] 
+data single
+  1(0)=19.4031
+
+
+2022-03-03 09:21:48,519 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 09:21:53,533 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2
+2022-03-03 09:21:54,230 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:21:54,231 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2 is OK
+2022-03-03 09:21:54,232 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2
+2022-03-03 09:22:02,381 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:22:02,382 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2 is OK
+2022-03-03 09:22:02,387 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 09:22:02,490 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:22:02,492 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580
+2022-03-03 09:22:02,616 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:22:02,616 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580 is OK
+2022-03-03 09:22:02,617 SMPCrossPlatform.smptool2 DEBUG Time set is OK, time=28.10.2018 02:59:40
+2022-03-03 09:22:02,619 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2
+2022-03-03 09:22:03,293 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:22:03,293 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2 is OK
+2022-03-03 09:22:03,295 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 09:22:03,337 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:22:03,427 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 09:22:03,522 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 09:22:03,619 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 09:22:03,659 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 09:22:33,866 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 09:22:33,961 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 09:22:34,056 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 09:22:34,097 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 09:22:39,151 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 09:22:39,202 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 09:32:39,342 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 09:32:39,438 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 09:32:39,534 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 09:32:39,575 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 09:37:39,802 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 09:37:39,897 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 09:37:39,993 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 09:37:40,034 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 09:37:40,075 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 09:37:45,134 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 10:27:45,208 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 10:27:45,259 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 10:27:45,260 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --t=20000 -dm 29[0..3]
+2022-03-03 10:27:45,322 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 10:27:45,322 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 10:27:45,322 SMPCrossPlatform.smproto DEBUG [02 00 1D 00 03]
+2022-03-03 10:27:45,322 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 10:27:45,322 SMPCrossPlatform.smproto DEBUG [02 00 1D F8 0B E0 0B A8 0B D0 07]
+2022-03-03 10:27:45,322 SMPCrossPlatform.smproto DEBUG Result: [02 00 1D 00 03] 
+[02 00 1D F8 0B E0 0B A8 0B D0 07] 
+data multiple
+  29[0..3](0):
+    [0]=0:0.0191
+    [1]=0:0.0188
+    [2]=0:0.0181
+    [3]=0:0.0122
+
+
+
+2022-03-03 10:27:45,322 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 10:27:45,322 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 10:27:45,374 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 10:27:45,374 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 10:27:45,374 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 10:27:45,374 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 10:27:45,374 SMPCrossPlatform.smproto DEBUG [01 00 01 E1 F1 0B]
+2022-03-03 10:27:45,374 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 E1 F1 0B] 
+data single
+  1(0)=19.4785
+
+
+2022-03-03 10:27:45,374 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 10:27:45,375 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 10:27:45,468 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 10:27:45,469 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=323319580
+2022-03-03 10:27:45,594 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 10:27:45,594 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=323319580 is OK
+2022-03-03 10:27:45,594 SMPCrossPlatform.smptool2 DEBUG Time set is OK, time=31.03.2022 02:59:40
+2022-03-03 10:27:45,595 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 10:27:45,658 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 10:27:45,752 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 10:27:45,849 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 10:27:45,944 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 10:27:45,985 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 10:28:16,209 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 10:28:16,305 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 10:28:16,401 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 10:28:16,441 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 10:28:21,497 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 10:28:21,550 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:15:38,790 __main__ DEBUG Autotests beginning
+2022-03-03 12:15:38,892 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 12:15:38,988 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 12:15:39,083 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 12:15:39,179 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 12:15:39,275 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 12:15:39,371 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 12:15:39,466 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 12:15:39,562 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 12:15:39,658 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 12:15:39,754 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 12:15:39,849 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 12:15:39,890 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 12:15:44,944 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 12:15:45,048 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:15:45,049 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 12:15:45,093 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:15:45,093 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 12:15:45,093 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 12:15:45,093 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 12:15:45,093 SMPCrossPlatform.smproto DEBUG [01 00 01 CD FC 0B]
+2022-03-03 12:15:45,093 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 CD FC 0B] 
+data single
+  1(0)=19.6173
+
+
+2022-03-03 12:15:45,093 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 12:15:50,108 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2
+2022-03-03 12:15:50,799 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:15:50,799 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2 is OK
+2022-03-03 12:15:50,801 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2
+2022-03-03 12:15:58,696 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:15:58,696 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2 is OK
+2022-03-03 12:15:58,701 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 12:15:58,794 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:15:58,796 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580
+2022-03-03 12:15:58,919 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:15:58,919 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580 is OK
+2022-03-03 12:15:58,920 SMPCrossPlatform.smptool2 DEBUG Time set is OK, time=28.10.2018 02:59:40
+2022-03-03 12:15:58,921 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2
+2022-03-03 12:15:59,612 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:15:59,612 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2 is OK
+2022-03-03 12:15:59,614 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 12:15:59,656 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:15:59,749 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 12:15:59,845 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 12:15:59,941 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 12:15:59,981 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 12:16:30,190 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 12:16:30,286 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 12:16:30,382 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 12:16:30,423 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 12:16:35,476 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 12:16:35,529 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 12:26:35,712 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 12:26:35,808 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 12:26:35,904 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 12:26:35,945 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 12:31:36,130 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 12:31:36,226 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 12:31:36,322 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 12:31:36,363 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 12:31:36,404 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 12:31:41,466 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 13:16:18,541 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 13:16:18,595 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 13:16:18,597 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --t=20000 -dm 29[0..4]
+2022-03-03 13:16:18,660 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 13:16:18,660 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 13:16:18,660 SMPCrossPlatform.smproto DEBUG [02 00 1D 00 04]
+2022-03-03 13:16:18,660 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 13:16:18,660 SMPCrossPlatform.smproto DEBUG [02 00 1D 80 0C 80 0C E8 0B 80 08 04]
+2022-03-03 13:16:18,660 SMPCrossPlatform.smproto DEBUG Result: [02 00 1D 00 04] 
+[02 00 1D 80 0C 80 0C E8 0B 80 08 04] 
+data multiple
+  29[0..4](0):
+    [0]=0:0.0192
+    [1]=0:0.0192
+    [2]=0:0.0189
+    [3]=0:0.0128
+    [4]=1:0
+
+
+
+2022-03-03 13:16:18,660 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 13:16:18,662 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 13:16:18,705 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 13:16:18,705 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 13:16:18,705 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 13:16:18,705 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 13:16:18,705 SMPCrossPlatform.smproto DEBUG [01 00 01 8C 82 0C]
+2022-03-03 13:16:18,705 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 8C 82 0C] 
+data single
+  1(0)=19.6876
+
+
+2022-03-03 13:16:18,705 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 13:16:18,707 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 13:16:18,801 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 13:16:18,802 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=323319580
+2022-03-03 13:16:18,926 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 13:16:18,926 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=323319580 is OK
+2022-03-03 13:16:18,927 SMPCrossPlatform.smptool2 DEBUG Time set is OK, time=31.03.2022 02:59:40
+2022-03-03 13:16:18,928 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 13:16:18,981 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 13:16:19,083 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 13:16:19,179 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 13:16:19,274 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 13:16:19,314 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 13:16:49,523 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 13:16:49,618 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 13:16:49,714 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 13:16:49,755 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 13:16:54,810 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 13:16:54,863 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:22:41,131 __main__ DEBUG Autotests beginning
+2022-03-03 14:22:41,224 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 14:22:41,319 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 14:22:41,415 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 14:22:41,511 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 14:22:41,607 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 14:22:41,702 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 14:22:41,798 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 14:22:41,894 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 14:22:41,989 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 14:22:42,085 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 14:22:42,181 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 14:22:42,221 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 14:22:47,276 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 14:22:47,380 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:22:47,381 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 14:22:47,424 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:22:47,424 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 14:22:47,424 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 14:22:47,425 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 14:22:47,425 SMPCrossPlatform.smproto DEBUG [01 00 01 D0 88 0C]
+2022-03-03 14:22:47,425 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 D0 88 0C] 
+data single
+  1(0)=19.7712
+
+
+2022-03-03 14:22:47,425 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 14:22:52,437 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2
+2022-03-03 14:22:53,126 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:22:53,126 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2 is OK
+2022-03-03 14:22:53,128 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2
+2022-03-03 14:23:01,208 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:23:01,208 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2 is OK
+2022-03-03 14:23:01,213 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 14:23:01,317 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:23:01,318 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580
+2022-03-03 14:23:01,442 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:23:01,443 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580 is OK
+2022-03-03 14:23:01,443 SMPCrossPlatform.smptool2 DEBUG Time set is OK, time=28.10.2018 02:59:40
+2022-03-03 14:23:01,444 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2
+2022-03-03 14:23:02,146 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:23:02,147 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2 is OK
+2022-03-03 14:23:02,148 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 14:23:02,191 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:23:02,287 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 14:23:02,383 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 14:23:02,478 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 14:23:02,519 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 14:23:32,727 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 14:23:32,823 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 14:23:32,918 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 14:23:32,959 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 14:23:38,014 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 14:23:38,067 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 14:33:38,166 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 14:33:38,262 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 14:33:38,357 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 14:33:38,398 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 14:38:38,580 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 14:38:38,675 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 14:38:38,771 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 14:38:38,812 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 14:38:38,854 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 14:38:43,915 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:23:20,934 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --t=20000 -dm 29[0..4]
+2022-03-03 15:23:21,018 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:23:21,018 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 15:23:21,018 SMPCrossPlatform.smproto DEBUG [02 00 1D 00 04]
+2022-03-03 15:23:21,018 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 15:23:21,018 SMPCrossPlatform.smproto DEBUG [02 00 00 0C]
+2022-03-03 15:23:21,018 SMPCrossPlatform.smproto DEBUG Result: [02 00 1D 00 04] 
+[02 00 00 0C] 
+data multiple
+  29[0..4](0):
+    [0]=ERR_NEED_WAIT
+    [1]=ERR_NEED_WAIT
+    [2]=ERR_NEED_WAIT
+    [3]=ERR_NEED_WAIT
+    [4]=ERR_NEED_WAIT
+
+
+
+2022-03-03 15:23:21,018 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 15:23:21,020 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 15:23:21,072 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:23:21,073 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 15:23:21,073 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 15:23:21,073 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 15:23:21,073 SMPCrossPlatform.smproto DEBUG [01 00 01 8F 8E 0C]
+2022-03-03 15:23:21,073 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 8F 8E 0C] 
+data single
+  1(0)=19.8415
+
+
+2022-03-03 15:23:21,073 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 15:39:20,861 __main__ DEBUG Autotests beginning
+2022-03-03 15:39:20,963 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 15:39:21,059 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 15:39:21,155 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 15:39:21,251 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 15:39:21,346 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 15:39:21,442 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 15:39:21,538 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 15:39:21,633 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 15:39:21,729 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 15:39:21,825 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 15:39:21,921 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 15:39:21,961 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 15:39:27,013 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 15:39:27,116 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:39:27,117 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 15:39:27,159 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:39:27,159 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 15:39:27,159 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 15:39:27,160 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 15:39:27,160 SMPCrossPlatform.smproto DEBUG [01 00 01 E0 8F 0C]
+2022-03-03 15:39:27,160 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 E0 8F 0C] 
+data single
+  1(0)=19.8624
+
+
+2022-03-03 15:39:27,160 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 15:39:32,172 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2
+2022-03-03 15:39:32,852 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:39:32,852 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2 is OK
+2022-03-03 15:39:32,852 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2
+2022-03-03 15:39:40,985 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:39:40,985 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2 is OK
+2022-03-03 15:39:40,987 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 15:39:41,089 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:39:41,090 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580
+2022-03-03 15:39:41,212 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:39:41,212 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580 is OK
+2022-03-03 15:39:41,213 SMPCrossPlatform.smptool2 DEBUG Time set is OK, time=28.10.2018 02:59:40
+2022-03-03 15:39:41,214 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2
+2022-03-03 15:39:41,903 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:39:41,903 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2 is OK
+2022-03-03 15:39:41,905 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 15:39:41,947 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:39:42,035 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 15:39:42,130 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 15:39:42,226 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 15:39:42,266 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 15:40:12,468 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 15:40:12,564 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 15:40:12,660 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 15:40:12,701 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 15:40:17,752 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 15:40:17,805 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 15:50:17,974 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 15:50:18,070 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 15:50:18,166 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 15:50:18,206 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 15:55:18,380 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 15:55:18,475 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 15:55:18,571 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 15:55:18,611 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 15:55:18,653 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 15:55:23,708 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 16:40:01,768 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --t=20000 -dm 29[0..4]
+2022-03-03 16:40:01,821 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 16:40:01,821 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 16:40:01,821 SMPCrossPlatform.smproto DEBUG [02 00 1D 00 04]
+2022-03-03 16:40:01,821 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 16:40:01,821 SMPCrossPlatform.smproto DEBUG [02 00 1D 90 0C 98 0C F0 0B 90 08 04]
+2022-03-03 16:40:01,821 SMPCrossPlatform.smproto DEBUG Result: [02 00 1D 00 04] 
+[02 00 1D 90 0C 98 0C F0 0B 90 08 04] 
+data multiple
+  29[0..4](0):
+    [0]=0:0.0194
+    [1]=0:0.0195
+    [2]=0:0.019
+    [3]=0:0.013
+    [4]=1:0
+
+
+
+2022-03-03 16:40:01,821 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 16:40:01,823 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 16:40:01,875 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 16:40:01,875 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 16:40:01,875 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 16:40:01,875 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 16:40:01,876 SMPCrossPlatform.smproto DEBUG [01 00 01 A8 95 0C]
+2022-03-03 16:40:01,876 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 A8 95 0C] 
+data single
+  1(0)=19.9336
+
+
+2022-03-03 16:40:01,876 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 16:40:01,877 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 16:40:01,980 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 16:40:01,982 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=228625180
+2022-03-03 16:40:02,106 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 16:40:02,106 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=228625180 is OK
+2022-03-03 16:40:02,106 SMPCrossPlatform.smptool2 DEBUG Time set is OK, time=31.03.2019 02:59:40
+2022-03-03 16:40:02,107 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 16:40:02,170 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:11:46,827 __main__ DEBUG Autotests beginning
+2022-03-03 17:11:46,924 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 17:11:47,020 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 17:11:47,116 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 17:11:47,211 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 17:11:47,307 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 17:11:47,402 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 17:11:47,498 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 17:11:47,594 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 17:11:47,690 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 17:11:47,785 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 17:11:47,881 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 17:11:47,922 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 17:11:52,975 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 17:11:53,079 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:11:53,081 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -ds 1
+2022-03-03 17:11:53,123 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:11:53,123 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:11:53,123 SMPCrossPlatform.smproto DEBUG [01 00 01 00]
+2022-03-03 17:11:53,123 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:11:53,123 SMPCrossPlatform.smproto DEBUG [01 00 01 B2 CB 12]
+2022-03-03 17:11:53,124 SMPCrossPlatform.smproto DEBUG Result: [01 00 01 00] 
+[01 00 01 B2 CB 12] 
+data single
+  1(0)=30.4562
+
+
+2022-03-03 17:11:53,124 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:11:58,137 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2
+2022-03-03 17:11:58,605 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:11:58,605 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 3=[1] -a 2 is OK
+2022-03-03 17:11:58,607 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2
+2022-03-03 17:12:04,380 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:12:04,381 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --t=8000 -a 27 -a 2 is OK
+2022-03-03 17:12:04,385 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 17:12:04,489 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:12:04,491 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580
+2022-03-03 17:12:04,615 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:12:04,615 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -os 1=215319580 is OK
+2022-03-03 17:12:04,615 SMPCrossPlatform.smptool2 DEBUG Time set is OK, time=28.10.2018 02:59:40
+2022-03-03 17:12:04,617 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2
+2022-03-03 17:12:05,318 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:12:05,319 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 143=[4] -a 2 is OK
+2022-03-03 17:12:05,320 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 17:12:05,373 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:12:05,470 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 17:12:05,566 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 17:12:05,661 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 17:12:05,702 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 17:12:35,913 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 17:12:36,009 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 17:12:36,105 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 17:12:36,145 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 17:12:41,199 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --noraw -og 1
+2022-03-03 17:12:41,251 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:22,512 __main__ DEBUG Autotests beginning
+2022-03-03 17:26:22,610 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 17:26:22,706 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 17:26:22,802 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 17:26:22,898 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 17:26:22,993 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 17:26:23,089 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 17:26:23,185 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 17:26:23,280 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 17:26:23,376 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 17:26:23,472 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 17:26:23,568 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 17:26:23,608 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 17:26:28,661 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 17:26:28,764 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:33,778 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 3
+2022-03-03 17:26:33,831 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:33,831 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:26:33,831 SMPCrossPlatform.smproto DEBUG [06 00 03]
+2022-03-03 17:26:33,832 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:26:33,832 SMPCrossPlatform.smproto DEBUG [06 00 03 A2 87 84 88 90 A0 BF 27]
+2022-03-03 17:26:33,832 SMPCrossPlatform.smproto DEBUG Result: [06 00 03] 
+[06 00 03 A2 87 84 88 90 A0 BF 27] 
+info
+  3=[162:3:1:1:1:20221]
+
+
+2022-03-03 17:26:33,832 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:26:33,833 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 5
+2022-03-03 17:26:33,885 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:33,885 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:26:33,885 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:26:33,886 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:26:33,886 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:26:33,886 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:26:33,886 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:26:33,887 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2
+2022-03-03 17:26:34,377 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:34,377 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2 is OK
+2022-03-03 17:26:39,391 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,2400 -i 5
+2022-03-03 17:26:39,534 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:39,535 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:26:39,535 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:26:39,535 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:26:39,535 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:26:39,535 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:26:39,535 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:26:39,536 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2
+2022-03-03 17:26:40,003 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:40,003 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2 is OK
+2022-03-03 17:26:45,017 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,4800 -i 5
+2022-03-03 17:26:45,100 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:45,100 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:26:45,100 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:26:45,100 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:26:45,101 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:26:45,101 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:26:45,101 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:26:45,103 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2
+2022-03-03 17:26:45,573 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:45,573 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2 is OK
+2022-03-03 17:26:50,587 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,9600 -i 5
+2022-03-03 17:26:50,629 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:50,630 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:26:50,630 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:26:50,630 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:26:50,630 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:26:50,630 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:26:50,630 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:26:50,631 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2
+2022-03-03 17:26:51,100 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:51,100 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2 is OK
+2022-03-03 17:26:56,114 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,19200 -i 5
+2022-03-03 17:26:56,146 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:56,147 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:26:56,147 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:26:56,147 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:26:56,147 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:26:56,147 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:26:56,147 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:26:56,148 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2
+2022-03-03 17:26:56,616 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:26:56,617 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2 is OK
+2022-03-03 17:27:01,629 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,38400 -i 5
+2022-03-03 17:27:01,650 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:27:01,650 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:27:01,650 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:27:01,650 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:27:01,651 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:27:01,651 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:27:01,651 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:27:01,651 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=57600 -a 2
+2022-03-03 17:27:02,119 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:27:02,119 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=57600 -a 2 is OK
+2022-03-03 17:27:07,132 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,57600 -i 5
+2022-03-03 17:27:07,154 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:27:07,155 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:27:07,155 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:27:07,155 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:27:07,155 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:27:07,155 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:27:07,155 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:27:07,156 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=115200 -a 2
+2022-03-03 17:27:07,625 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:27:07,626 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=115200 -a 2 is OK
+2022-03-03 17:27:12,639 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,115200 -i 5
+2022-03-03 17:27:12,661 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:27:12,661 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:27:12,661 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:27:12,661 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:27:12,661 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:27:12,661 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:27:12,661 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:27:12,663 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2
+2022-03-03 17:27:13,131 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:27:13,131 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2 is OK
+2022-03-03 17:27:18,143 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,14400 -i 5
+2022-03-03 17:27:28,152 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:33:57,114 __main__ DEBUG Autotests beginning
+2022-03-03 17:33:57,210 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 17:33:57,305 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 17:33:57,401 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 17:33:57,497 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 17:33:57,592 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 17:33:57,688 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 17:33:57,784 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 17:33:57,879 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 17:33:57,975 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 17:33:58,071 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 17:33:58,166 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 17:33:58,207 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 17:34:03,260 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 17:34:03,364 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:08,377 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 3
+2022-03-03 17:34:08,430 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:08,430 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:34:08,430 SMPCrossPlatform.smproto DEBUG [06 00 03]
+2022-03-03 17:34:08,430 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:34:08,430 SMPCrossPlatform.smproto DEBUG [06 00 03 A2 87 84 88 90 A0 BF 27]
+2022-03-03 17:34:08,430 SMPCrossPlatform.smproto DEBUG Result: [06 00 03] 
+[06 00 03 A2 87 84 88 90 A0 BF 27] 
+info
+  3=[162:3:1:1:1:20221]
+
+
+2022-03-03 17:34:08,430 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:34:08,431 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 5
+2022-03-03 17:34:08,483 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:08,483 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:34:08,483 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:34:08,483 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:34:08,483 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:34:08,483 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:34:08,483 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:34:08,484 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2
+2022-03-03 17:34:09,194 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:09,195 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2 is OK
+2022-03-03 17:34:14,208 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,2400 -i 5
+2022-03-03 17:34:14,362 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:14,362 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:34:14,362 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:34:14,362 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:34:14,362 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:34:14,362 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:34:14,362 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:34:14,364 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2
+2022-03-03 17:34:14,833 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:14,833 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2 is OK
+2022-03-03 17:34:19,847 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,4800 -i 5
+2022-03-03 17:34:19,919 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:19,919 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:34:19,920 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:34:19,920 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:34:19,920 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:34:19,920 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:34:19,920 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:34:19,921 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2
+2022-03-03 17:34:20,389 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:20,389 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2 is OK
+2022-03-03 17:34:25,403 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,9600 -i 5
+2022-03-03 17:34:25,455 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:25,455 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:34:25,455 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:34:25,455 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:34:25,455 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:34:25,455 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:34:25,455 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:34:25,457 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2
+2022-03-03 17:34:26,165 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:26,166 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2 is OK
+2022-03-03 17:34:31,179 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,19200 -i 5
+2022-03-03 17:34:31,211 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:31,212 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:34:31,212 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:34:31,212 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:34:31,212 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:34:31,212 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:34:31,212 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:34:31,213 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2
+2022-03-03 17:34:31,682 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:31,682 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2 is OK
+2022-03-03 17:34:36,697 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,38400 -i 5
+2022-03-03 17:34:36,719 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:36,719 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:34:36,719 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:34:36,719 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:34:36,719 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:34:36,719 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:34:36,719 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:34:36,720 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=57600 -a 2
+2022-03-03 17:34:37,187 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:37,187 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=57600 -a 2 is OK
+2022-03-03 17:34:42,201 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,57600 -i 5
+2022-03-03 17:34:42,212 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:42,213 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:34:42,213 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:34:42,213 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:34:42,213 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:34:42,213 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:34:42,213 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:34:42,214 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=115200 -a 2
+2022-03-03 17:34:42,685 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:42,685 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=115200 -a 2 is OK
+2022-03-03 17:34:47,699 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,115200 -i 5
+2022-03-03 17:34:47,720 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:47,721 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:34:47,721 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:34:47,721 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:34:47,721 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:34:47,721 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:34:47,721 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:34:47,722 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2
+2022-03-03 17:34:48,192 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:34:48,192 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2 is OK
+2022-03-03 17:34:53,210 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,14400 -i 5
+2022-03-03 17:35:03,221 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:39:16,473 __main__ DEBUG Autotests beginning
+2022-03-03 17:39:16,578 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 17:39:16,673 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 17:39:16,769 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 17:39:16,864 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 17:39:16,960 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 17:39:17,056 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 17:39:17,152 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 17:39:17,248 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 17:39:17,343 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 17:39:17,439 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 17:39:17,534 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 17:39:17,575 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 17:39:22,629 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 17:39:22,733 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:26,113 __main__ DEBUG Autotests beginning
+2022-03-03 17:40:26,212 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 17:40:26,308 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 17:40:26,404 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 17:40:26,500 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 17:40:26,595 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 17:40:26,690 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 17:40:26,786 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 17:40:26,882 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 17:40:26,978 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 17:40:27,074 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 17:40:27,169 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 17:40:27,210 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 17:40:32,265 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 17:40:32,369 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:37,382 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 3
+2022-03-03 17:40:37,435 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:37,436 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:40:37,436 SMPCrossPlatform.smproto DEBUG [06 00 03]
+2022-03-03 17:40:37,436 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:40:37,436 SMPCrossPlatform.smproto DEBUG [06 00 03 A2 87 84 88 90 A0 BF 27]
+2022-03-03 17:40:37,436 SMPCrossPlatform.smproto DEBUG Result: [06 00 03] 
+[06 00 03 A2 87 84 88 90 A0 BF 27] 
+info
+  3=[162:3:1:1:1:20221]
+
+
+2022-03-03 17:40:37,436 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:40:37,437 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 5
+2022-03-03 17:40:37,480 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:37,480 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:40:37,480 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:40:37,480 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:40:37,480 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:40:37,480 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:40:37,481 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:40:37,482 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2
+2022-03-03 17:40:38,183 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:38,183 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2 is OK
+2022-03-03 17:40:43,197 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,2400 -i 5
+2022-03-03 17:40:43,340 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:43,340 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:40:43,340 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:40:43,340 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:40:43,340 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:40:43,340 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:40:43,340 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:40:43,340 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2
+2022-03-03 17:40:43,808 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:43,808 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2 is OK
+2022-03-03 17:40:48,822 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,4800 -i 5
+2022-03-03 17:40:48,905 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:48,905 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:40:48,905 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:40:48,905 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:40:48,905 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:40:48,905 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:40:48,905 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:40:48,907 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2
+2022-03-03 17:40:49,376 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:49,376 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2 is OK
+2022-03-03 17:40:54,390 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,9600 -i 5
+2022-03-03 17:40:54,443 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:54,443 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:40:54,443 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:40:54,443 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:40:54,443 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:40:54,443 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:40:54,443 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:40:54,445 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2
+2022-03-03 17:40:55,154 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:40:55,155 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2 is OK
+2022-03-03 17:41:00,167 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,19200 -i 5
+2022-03-03 17:41:00,199 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:41:00,199 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:41:00,199 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:41:00,199 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:41:00,199 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:41:00,199 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:41:00,199 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:41:00,200 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2
+2022-03-03 17:41:00,668 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:41:00,668 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2 is OK
+2022-03-03 17:41:05,682 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,38400 -i 5
+2022-03-03 17:41:05,704 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:41:05,705 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:41:05,705 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:41:05,705 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:41:05,705 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:41:05,705 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:41:05,705 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:41:05,706 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=57600 -a 2
+2022-03-03 17:41:06,176 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:41:06,176 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=57600 -a 2 is OK
+2022-03-03 17:41:11,190 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,57600 -i 5
+2022-03-03 17:41:11,222 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:41:11,223 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:41:11,223 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:41:11,223 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:41:11,223 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:41:11,223 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:41:11,223 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:41:11,224 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=115200 -a 2
+2022-03-03 17:41:11,693 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:41:11,693 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=115200 -a 2 is OK
+2022-03-03 17:41:16,706 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,115200 -i 5
+2022-03-03 17:41:16,716 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:41:16,717 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:41:16,717 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:41:16,717 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:41:16,717 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:41:16,717 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:41:16,717 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:41:16,717 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2
+2022-03-03 17:41:17,184 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:41:17,185 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2 is OK
+2022-03-03 17:41:22,199 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,14400 -i 5
+2022-03-03 17:41:32,213 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:26,184 __main__ DEBUG Autotests beginning
+2022-03-03 17:42:26,278 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 17:42:26,374 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 17:42:26,469 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 17:42:26,565 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 17:42:26,661 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 17:42:26,757 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 17:42:26,852 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 17:42:26,948 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 17:42:27,044 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 17:42:27,139 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 17:42:27,235 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 17:42:27,276 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 17:42:32,330 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 17:42:32,434 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:37,448 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 3
+2022-03-03 17:42:37,500 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:37,501 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:42:37,501 SMPCrossPlatform.smproto DEBUG [06 00 03]
+2022-03-03 17:42:37,501 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:42:37,501 SMPCrossPlatform.smproto DEBUG [06 00 03 A2 87 84 88 90 A0 BF 27]
+2022-03-03 17:42:37,501 SMPCrossPlatform.smproto DEBUG Result: [06 00 03] 
+[06 00 03 A2 87 84 88 90 A0 BF 27] 
+info
+  3=[162:3:1:1:1:20221]
+
+
+2022-03-03 17:42:37,501 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:42:37,502 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 5
+2022-03-03 17:42:37,555 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:37,555 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:42:37,555 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:42:37,555 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:42:37,555 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:42:37,555 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:42:37,555 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:42:37,557 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2
+2022-03-03 17:42:38,035 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:38,035 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2 is OK
+2022-03-03 17:42:43,048 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,2400 -i 5
+2022-03-03 17:42:43,181 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:43,181 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:42:43,181 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:42:43,181 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:42:43,181 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:42:43,181 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:42:43,181 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:42:43,182 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2
+2022-03-03 17:42:43,650 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:43,650 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2 is OK
+2022-03-03 17:42:48,664 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,4800 -i 5
+2022-03-03 17:42:48,746 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:48,747 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:42:48,747 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:42:48,747 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:42:48,747 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:42:48,747 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:42:48,747 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:42:48,748 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2
+2022-03-03 17:42:49,218 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:49,219 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2 is OK
+2022-03-03 17:42:54,232 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,9600 -i 5
+2022-03-03 17:42:54,285 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:54,285 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:42:54,285 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:42:54,285 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:42:54,285 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:42:54,285 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:42:54,286 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:42:54,287 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2
+2022-03-03 17:42:54,756 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:54,756 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2 is OK
+2022-03-03 17:42:59,770 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,19200 -i 5
+2022-03-03 17:42:59,802 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:42:59,802 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:42:59,802 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:42:59,802 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:42:59,802 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:42:59,802 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:42:59,802 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:42:59,803 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2
+2022-03-03 17:43:00,270 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:43:00,270 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2 is OK
+2022-03-03 17:43:05,284 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,38400 -i 5
+2022-03-03 17:43:05,306 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:43:05,306 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:43:05,306 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:43:05,306 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:43:05,306 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:43:05,306 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:43:05,306 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:43:05,308 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=57600 -a 2
+2022-03-03 17:43:05,777 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:43:05,777 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=57600 -a 2 is OK
+2022-03-03 17:43:10,791 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,57600 -i 5
+2022-03-03 17:43:10,803 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:43:10,803 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:43:10,803 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:43:10,803 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:43:10,803 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:43:10,804 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:43:10,804 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:43:10,805 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=115200 -a 2
+2022-03-03 17:43:11,274 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:43:11,274 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=115200 -a 2 is OK
+2022-03-03 17:43:16,288 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,115200 -i 5
+2022-03-03 17:43:16,309 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:43:16,310 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:43:16,310 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:43:16,310 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:43:16,310 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:43:16,310 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:43:16,310 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:43:16,311 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2
+2022-03-03 17:43:16,780 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:43:16,780 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2 is OK
+2022-03-03 17:43:21,794 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,14400 -i 5
+2022-03-03 17:43:31,810 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:27,610 __main__ DEBUG Autotests beginning
+2022-03-03 17:45:27,699 one_ph_owen_stand.srv.owen_relay_driver DEBUG 1 is OFF
+2022-03-03 17:45:27,795 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is OFF
+2022-03-03 17:45:27,890 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is OFF
+2022-03-03 17:45:27,986 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is OFF
+2022-03-03 17:45:28,082 one_ph_owen_stand.srv.owen_relay_driver DEBUG 5 is OFF
+2022-03-03 17:45:28,177 one_ph_owen_stand.srv.owen_relay_driver DEBUG 6 is OFF
+2022-03-03 17:45:28,273 one_ph_owen_stand.srv.owen_relay_driver DEBUG 7 is OFF
+2022-03-03 17:45:28,369 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is OFF
+2022-03-03 17:45:28,464 one_ph_owen_stand.srv.owen_relay_driver DEBUG 2 is ON
+2022-03-03 17:45:28,560 one_ph_owen_stand.srv.owen_relay_driver DEBUG 3 is ON
+2022-03-03 17:45:28,656 one_ph_owen_stand.srv.owen_relay_driver DEBUG 4 is ON
+2022-03-03 17:45:28,696 one_ph_owen_stand.srv.owen_relay_driver DEBUG 8 is ON
+2022-03-03 17:45:33,750 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --auth=777777
+2022-03-03 17:45:33,854 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:38,868 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 3
+2022-03-03 17:45:38,921 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:38,921 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:45:38,921 SMPCrossPlatform.smproto DEBUG [06 00 03]
+2022-03-03 17:45:38,921 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:45:38,921 SMPCrossPlatform.smproto DEBUG [06 00 03 A2 87 84 88 90 A0 BF 27]
+2022-03-03 17:45:38,921 SMPCrossPlatform.smproto DEBUG Result: [06 00 03] 
+[06 00 03 A2 87 84 88 90 A0 BF 27] 
+info
+  3=[162:3:1:1:1:20221]
+
+
+2022-03-03 17:45:38,921 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:45:38,923 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw -i 5
+2022-03-03 17:45:38,975 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:38,975 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:45:38,975 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:45:38,976 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:45:38,976 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:45:38,976 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:45:38,976 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:45:38,977 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2
+2022-03-03 17:45:39,455 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:39,455 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=2400 -a 2 is OK
+2022-03-03 17:45:44,468 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,2400 -i 5
+2022-03-03 17:45:44,610 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:44,611 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:45:44,611 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:45:44,611 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:45:44,611 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:45:44,611 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:45:44,611 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:45:44,613 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2
+2022-03-03 17:45:45,082 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:45,082 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=4800 -a 2 is OK
+2022-03-03 17:45:50,096 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,4800 -i 5
+2022-03-03 17:45:50,169 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:50,169 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:45:50,169 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:45:50,169 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:45:50,169 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:45:50,169 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:45:50,169 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:45:50,171 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2
+2022-03-03 17:45:50,639 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:50,639 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=9600 -a 2 is OK
+2022-03-03 17:45:55,652 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,9600 -i 5
+2022-03-03 17:45:55,704 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:55,704 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:45:55,704 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:45:55,704 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:45:55,704 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:45:55,704 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:45:55,704 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:45:55,706 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2
+2022-03-03 17:45:56,173 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:45:56,173 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=14400 -a 2 is OK
+2022-03-03 17:46:01,186 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,14400 -i 5
+2022-03-03 17:46:11,198 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:46:11,199 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2
+2022-03-03 17:46:11,666 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:46:11,666 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=19200 -a 2 is OK
+2022-03-03 17:46:16,680 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog --raw --com=ttyUSB0,19200 -i 5
+2022-03-03 17:46:16,712 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:46:16,712 SMPCrossPlatform.smproto DEBUG Data send
+2022-03-03 17:46:16,712 SMPCrossPlatform.smproto DEBUG [06 00 05]
+2022-03-03 17:46:16,712 SMPCrossPlatform.smproto DEBUG Data answer
+2022-03-03 17:46:16,712 SMPCrossPlatform.smproto DEBUG [06 00 05 8E 04]
+2022-03-03 17:46:16,712 SMPCrossPlatform.smproto DEBUG Result: [06 00 05] 
+[06 00 05 8E 04] 
+info
+  5=526
+
+
+2022-03-03 17:46:16,712 SMPCrossPlatform.smproto DEBUG Answer OK 
+
+2022-03-03 17:46:16,714 SMPCrossPlatform.smproto DEBUG Full command: --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2
+2022-03-03 17:46:17,186 SMPCrossPlatform.smproto DEBUG Get answer
+2022-03-03 17:46:17,186 SMPCrossPlatform.smproto DEBUG Command --com=ttyUSB1,14400 --direct --ip= --mac=0 --t=5000 --ch= --r=1 --nolog -os 410=38400 -a 2 is OK

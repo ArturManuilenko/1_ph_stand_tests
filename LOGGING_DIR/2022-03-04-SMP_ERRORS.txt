@@ -1,0 +1,14 @@
+2022-03-04 08:42:53,578 src.checks.test_speed_connection_interface ERROR Auth failure: No answer/Connect error ()
+2022-03-04 08:54:08,057 src.checks.test_speed_connection_interface ERROR Auth failure: No answer/Connect error ()
+2022-03-04 08:55:08,968 src.checks.test_speed_connection_interface ERROR Auth failure: No answer/Connect error ()
+2022-03-04 08:56:10,613 src.checks.test_speed_connection_interface ERROR Auth failure: No answer/Connect error ()
+2022-03-04 10:50:29,075 __main__ ERROR Error test: test_speed_connection_interface repeat: 0, error: Auth failure: No answer/Connect error ()
+2022-03-04 10:54:10,577 __main__ ERROR Error test: test_speed_connection_interface repeat: 0, error: Auth failure: No answer/Connect error ()
+2022-03-04 10:55:11,116 __main__ ERROR Error test: test_speed_connection_interface repeat: 0, error: Auth failure: No answer/Connect error ()
+2022-03-04 11:28:50,809 __main__ ERROR Error test: test_speed_connection_interface repeat: 0, error: Auth failure: No answer/Connect error ()
+2022-03-04 12:27:40,192 __main__ ERROR Error test: test_speed_connection_interface repeat: 0, error: Error: no transfer to device/no answer from device (Error: SMPROTO_RETURN_ERR_NOANS)
+2022-03-04 12:33:45,601 src.checks.test_speed_connection_interface ERROR Связь не устанавливается на скорости 14400
+2022-03-04 13:17:36,955 src.checks.test_speed_connection_interface ERROR Связь не устанавливается на скорости 14400
+2022-03-04 13:17:36,955 src.checks.test_speed_connection_interface ERROR Testing multiple exceptions. Error: SMPROTO_RETURN_ERR_NOANS
+2022-03-04 13:36:53,204 src.checks.test_speed_connection_interface ERROR Связь не устанавливается на скорости 14400
+2022-03-04 13:36:53,204 src.checks.test_speed_connection_interface ERROR Testing multiple exceptions. Error: SMPROTO_RETURN_ERR_NOANS

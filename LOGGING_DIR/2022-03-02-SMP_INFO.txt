@@ -1,0 +1,64 @@
+2022-03-02 08:36:56,409 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-02 08:38:22,234 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-02 09:04:41,089 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-02 10:28:40,463 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-02 10:29:03,773 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-02 10:30:09,969 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-02 10:31:01,781 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-02 10:35:20,318 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-02 11:48:36,614 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 11:49:27,479 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 11:50:44,142 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 11:51:36,721 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 11:52:34,563 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 11:54:13,348 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 11:55:19,773 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 11:55:42,889 src.checks.test_change_winter_summer_date_time INFO Устанока перехода зима/лето по дате и времени
+2022-03-02 11:55:43,120 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее
+2022-03-02 13:04:32,421 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 13:05:54,204 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 13:06:10,844 src.checks.test_change_winter_summer_date_time INFO Устанока перехода зима/лето по дате и времени
+2022-03-02 13:06:11,004 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее
+2022-03-02 13:07:52,319 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 13:08:03,779 src.checks.test_change_winter_summer_date_time INFO Устанока перехода зима/лето по дате и времени
+2022-03-02 13:08:03,925 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее
+2022-03-02 13:24:44,001 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 13:24:55,460 src.checks.test_change_winter_summer_date_time INFO Устанока перехода зима/лето по дате и времени
+2022-03-02 13:24:55,600 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее
+2022-03-02 13:32:50,114 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 13:58:44,781 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 14:17:32,090 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 14:19:58,729 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 14:22:53,054 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 14:27:49,613 src.checks.test_change_winter_summer_auto INFO Проверка перехода зима/лето  автоматически
+2022-03-02 14:28:00,919 src.checks.test_change_winter_summer_auto INFO Устанока перехода зима/лето автоматически
+2022-03-02 14:28:01,162 src.checks.test_change_winter_summer_auto INFO Проверка перехода на зимнее
+2022-03-02 15:12:16,180 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:14:40,040 src.checks.test_change_winter_summer_auto INFO Проверка перехода зима/лето  автоматически
+2022-03-02 15:14:51,356 src.checks.test_change_winter_summer_auto INFO Устанока перехода зима/лето автоматически
+2022-03-02 15:14:51,674 src.checks.test_change_winter_summer_auto INFO Проверка перехода на зимнее
+2022-03-02 15:16:42,725 src.checks.test_change_winter_summer_auto INFO Проверка перехода зима/лето  автоматически
+2022-03-02 15:17:15,056 src.checks.test_change_winter_summer_auto INFO Проверка перехода зима/лето  автоматически
+2022-03-02 15:17:45,100 src.checks.test_change_winter_summer_auto INFO Проверка перехода зима/лето  автоматически
+2022-03-02 15:19:35,827 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:21:30,387 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:23:22,223 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:27:22,201 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:28:06,442 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:29:49,064 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:55:57,317 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:56:25,733 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:57:15,591 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:57:59,014 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:58:25,811 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 15:59:07,919 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:02:05,338 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:08:29,138 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:10:13,629 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:12:35,396 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:15:08,093 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:16:31,090 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:18:21,489 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:21:34,140 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:27:18,492 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-02 16:28:08,846 src.checks.test_change_winter_summer_date_time INFO Переход на зимнее осуществляется корректно

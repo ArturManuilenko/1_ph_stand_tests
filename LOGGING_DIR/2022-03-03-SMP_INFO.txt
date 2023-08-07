@@ -1,0 +1,35 @@
+2022-03-03 08:49:04,327 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-03 08:50:26,649 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-03 09:21:42,221 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-03 09:22:39,203 src.checks.test_change_winter_summer_date_time INFO Переход на зимнее осуществляется корректно
+2022-03-03 09:37:45,135 src.checks.test_change_winter_summer_date_time INFO Переход в выключенном состоянии осуществляется корректно
+2022-03-03 10:27:45,594 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на летнее
+2022-03-03 10:28:21,551 src.checks.test_change_winter_summer_date_time INFO Переход на летнее осуществляется корректно
+2022-03-03 12:15:38,792 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-03 12:16:35,529 src.checks.test_change_winter_summer_date_time INFO Переход на зимнее осуществляется корректно
+2022-03-03 12:31:41,467 src.checks.test_change_winter_summer_date_time INFO Переход в выключенном состоянии осуществляется корректно
+2022-03-03 13:16:18,705 src.checks.test_change_winter_summer_date_time INFO Подсчитанная энергия - (ds1 - начальная) не расходятся больше, чем на 0.002 (погрешность), полученное знаение: 0.00019999999999953388
+2022-03-03 13:16:18,927 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на летнее
+2022-03-03 13:16:54,863 src.checks.test_change_winter_summer_date_time INFO Переход на летнее осуществляется корректно
+2022-03-03 14:22:41,133 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-03 14:22:47,425 src.checks.test_change_winter_summer_date_time INFO Начальная энергия (-ds 1)19.7712
+2022-03-03 14:23:38,067 src.checks.test_change_winter_summer_date_time INFO Переход на зимнее осуществляется корректно
+2022-03-03 14:38:43,915 src.checks.test_change_winter_summer_date_time INFO Переход в выключенном состоянии осуществляется корректно
+2022-03-03 15:23:21,019 src.checks.test_change_winter_summer_date_time INFO Интервал накоплений за 25 час (-dm 29)['[0]=ERR_NEED_WAIT', '[1]=ERR_NEED_WAIT', '[2]=ERR_NEED_WAIT', '[3]=ERR_NEED_WAIT', '[4]=ERR_NEED_WAIT']
+2022-03-03 15:23:21,073 src.checks.test_change_winter_summer_date_time INFO Конечная энергия (-ds 1)19.8415
+2022-03-03 15:39:20,864 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-03 15:39:27,160 src.checks.test_change_winter_summer_date_time INFO Начальная энергия (-ds 1)19.8624
+2022-03-03 15:40:17,805 src.checks.test_change_winter_summer_date_time INFO Переход на зимнее осуществляется корректно
+2022-03-03 15:55:23,708 src.checks.test_change_winter_summer_date_time INFO Переход в выключенном состоянии осуществляется корректно
+2022-03-03 16:40:01,822 src.checks.test_change_winter_summer_date_time INFO Интервал накоплений за 25 час (-dm 29)['0.0194', '0.0195', '0.019', '0.013', '0']
+2022-03-03 16:40:01,876 src.checks.test_change_winter_summer_date_time INFO Конечная энергия (-ds 1)19.9336
+2022-03-03 16:40:01,876 src.checks.test_change_winter_summer_date_time INFO Подсчитанная энергия - (ds1 - начальная) не расходится больше, чем на 0.002 (погрешность), полученное знаение: 0.0002999999999957481
+2022-03-03 16:40:02,106 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на летнее
+2022-03-03 17:11:46,829 src.checks.test_change_winter_summer_date_time INFO Проверка перехода на зимнее/летнее время по дате и времени
+2022-03-03 17:11:53,124 src.checks.test_change_winter_summer_date_time INFO Начальная энергия (-ds 1)30.4562
+2022-03-03 17:26:22,515 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-03 17:33:57,117 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-03 17:39:16,475 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-03 17:40:26,115 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-03 17:42:26,187 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-03 17:45:27,612 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE

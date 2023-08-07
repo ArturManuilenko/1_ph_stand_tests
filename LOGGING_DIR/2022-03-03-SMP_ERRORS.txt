@@ -1,0 +1,4 @@
+2022-03-03 15:23:21,073 src.checks.test_change_winter_summer_date_time ERROR could not convert string to float: '[0]=ERR_NEED_WAIT'
+2022-03-03 16:40:02,170 src.checks.test_change_winter_summer_date_time ERROR write failed: [Errno 5] Input/output error
+2022-03-03 17:12:41,251 src.checks.test_change_winter_summer_date_time ERROR Переход на зимнее не осуществляется
+2022-03-03 17:27:28,153 src.checks.test_speed_connection_interface ERROR Error: no transfer to device/no answer from device (Error: SMPROTO_RETURN_ERR_NOANS)

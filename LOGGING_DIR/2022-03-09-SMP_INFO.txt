@@ -1,0 +1,78 @@
+2022-03-09 08:52:12,845 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 08:52:53,219 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 08:53:16,710 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 08:53:43,336 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 08:54:26,799 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 08:55:02,232 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 08:56:03,844 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 08:56:29,301 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 08:58:02,408 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 09:00:18,379 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 09:11:05,465 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 09:14:22,383 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 09:26:12,354 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 09:26:29,178 src.checks.test_speed_connection_interface INFO Проверка скорости 2400
+2022-03-09 09:50:28,237 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 09:50:51,679 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 09:51:08,736 src.checks.test_speed_connection_interface INFO CHECK SPEED CONNECTION INTERFACE
+2022-03-09 15:19:34,628 src.checks.test_check_system INFO Check counter
+2022-03-09 15:21:06,058 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 15:23:19,536 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 15:35:11,974 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 15:35:44,749 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 15:37:11,739 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 16:09:15,321 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 16:32:21,559 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 16:38:03,828 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 16:47:19,623 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 16:48:18,901 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 16:49:21,323 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 16:50:36,647 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:07:06,422 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:08:40,534 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:09:56,928 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:12:11,100 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:17:03,996 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:18:08,823 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:19:45,833 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:35:21,122 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:38:03,871 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:39:34,150 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:41:27,925 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 17:42:46,096 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:01:35,705 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:03:40,336 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:11:18,791 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:14:29,953 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:16:50,176 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:18:37,987 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:21:05,897 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:23:09,279 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:26:44,305 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:28:39,145 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:31:07,928 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:31:23,618 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:35:17,093 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:38:53,370 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:42:56,957 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:43:40,313 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:45:07,029 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:47:25,063 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:51:09,800 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:52:00,438 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:53:23,653 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:57:59,362 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 18:59:55,212 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:00:37,452 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:04:04,572 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:06:42,414 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:09:25,262 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:20:22,661 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:23:04,884 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:25:45,074 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:27:32,430 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:31:15,305 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:31:55,785 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:37:36,049 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:47:39,930 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
+2022-03-09 19:48:48,291 src.checks.test_thirty_two_tariff_programs INFO Проверка возможности установки 32 суточных тарифных программ
